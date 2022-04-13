@@ -1,9 +1,9 @@
 #########################################################################
 #
-#	Projekt w ramach przedmiotu ARKO - Architerktura Komputerów
+#	Projekt w ramach przedmiotu ARKO - Architerktura KomputerÃ³w
 #	Temat 16: Imprementacja algorytmu Flood-Fill na obrazku BMP
 #	Autorka: Patrycja Wysocka
-#	Prowadz¹cy: mgr in¿. S³awomir Niespodziany
+#	Prowadzacy: mgr inz. Slawomir Niespodziany
 #	
 #########################################################################
 
